@@ -1,2 +1,2 @@
 # mcaexamhub.github.io
- for mca student 
+pyq for mca student 
